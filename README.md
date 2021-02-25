@@ -19,7 +19,7 @@ Note that by default, Java displays doubles in exponential form. `7.182818284E9`
 5. Finish the codingbat `isPrime()`  to test if a number is prime. 
 6. Add a loop to `setup()` that moves through the digits of e until it finds the first 10 digit prime.
 7. Add commit and upload your finished program to your github account. 
-9. OPTIONAL: If you have extra time you may want to see if you can solve the second puzzle to get the 5th prime formed by consecutive digits of `e`! 
+9. OPTIONAL: If you have extra time you may want to see if you can solve the second puzzle to get the 5th pattern formed by consecutive digits of `e`!  (Hint: the individual digits in each pattern add up to 49!).
 
 ````
 Expected Output:
